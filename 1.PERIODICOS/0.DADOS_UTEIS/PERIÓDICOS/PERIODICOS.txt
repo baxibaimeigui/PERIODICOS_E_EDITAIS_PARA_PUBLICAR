@@ -1,0 +1,21 @@
+Um periódico, também conhecido como revista científica ou publicação periódica, é uma publicação impressa ou eletrônica que é lançada em intervalos regulares, como semanalmente, mensalmente ou trimestralmente. Os periódicos são uma forma importante de disseminação de informações acadêmicas, científicas, culturais e de entretenimento. Eles abrangem uma ampla variedade de tópicos e disciplinas, incluindo ciências, tecnologia, medicina, humanidades, artes, negócios, entre outros.
+
+Características dos periódicos incluem:
+
+1. **Regularidade**: Os periódicos são publicados em intervalos predefinidos, como edições semanais, mensais, bimestrais etc.
+
+2. **Conteúdo Variado**: Eles apresentam artigos, ensaios, resenhas, notícias, análises e outras formas de contribuições que abordam tópicos específicos ou uma gama mais ampla de assuntos.
+
+3. **Revisão por Pares (Peer Review)**: Muitos periódicos científicos passam por um processo de revisão por pares, no qual os artigos submetidos são avaliados por especialistas antes de serem aceitos para publicação, garantindo a qualidade e a credibilidade do conteúdo.
+
+4. **Indexação**: Periódicos frequentemente são indexados em bases de dados e diretórios, como os mencionados anteriormente (Web of Science, Scopus, PubMed, etc.), para aumentar a visibilidade e o acesso aos artigos.
+
+5. **Acesso Aberto**: Alguns periódicos adotam o modelo de acesso aberto, permitindo que os artigos sejam livremente acessíveis ao público, promovendo a disseminação ampla do conhecimento.
+
+6. **Autores e Editores**: Os periódicos têm editores e equipes editoriais responsáveis por revisar, selecionar e organizar o conteúdo para cada edição. Os autores contribuem com artigos que passam pelo processo de revisão e edição antes da publicação.
+
+7. **Citações e Referências Cruzadas**: Os periódicos são frequentemente citados em trabalhos acadêmicos e científicos, e a prática de referenciar outros trabalhos é essencial para construir uma base sólida para novas pesquisas.
+
+8. **Impacto Acadêmico**: Para periódicos científicos, métricas como o Fator de Impacto (utilizado pela Web of Science) e o CiteScore (utilizado pelo Scopus) são usadas para avaliar a importância e influência das publicações.
+
+Os periódicos desempenham um papel crucial na disseminação do conhecimento, permitindo que pesquisadores compartilhem suas descobertas, ideias e contribuições com a comunidade acadêmica e o público em geral.

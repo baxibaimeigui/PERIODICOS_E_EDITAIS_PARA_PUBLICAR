@@ -1,0 +1,17 @@
+1. **Web of Science (WoS)**: A Web of Science é uma das bases de dados mais conhecidas para indexação de revistas científicas. Ela inclui várias disciplinas e fornece métricas de citação, como o Fator de Impacto, para avaliar a importância relativa das revistas.
+
+2. **Scopus**: Scopus é outra base de dados de indexação amplamente utilizada que abrange várias disciplinas. Ele oferece métricas de citação, como o CiteScore, e também rastreia a produção acadêmica e a colaboração entre pesquisadores.
+
+3. **PubMed**: Focado em ciências biomédicas e da saúde, o PubMed indexa uma ampla gama de revistas científicas relacionadas à medicina, biologia e áreas afins.
+
+4. **Google Scholar**: Embora não seja uma base de dados formal de indexação, o Google Scholar é amplamente usado para pesquisa acadêmica e rastreia citações em uma variedade de disciplinas. Ele é acessível ao público e fornece um índice de h-índice e métricas de citação.
+
+5. **BASE (Bielefeld Academic Search Engine)**: É um motor de busca acadêmico que indexa revistas científicas, repositórios institucionais e outras fontes de pesquisa acadêmica.
+
+6. **DOAJ (Directory of Open Access Journals)**: Especializado em revistas de acesso aberto, o DOAJ indexa revistas científicas que oferecem acesso gratuito aos seus conteúdos.
+
+7. **IEEE Xplore**: Centrado em engenharia, tecnologia e disciplinas afins, o IEEE Xplore indexa revistas, conferências e padrões relacionados à área.
+
+8. **Acesso aberto**: Além das plataformas de indexação tradicionais, muitas revistas científicas também buscam o reconhecimento e a visibilidade por meio do acesso aberto, tornando seus artigos disponíveis gratuitamente para todos os leitores.
+
+Lembrando que a indexação pode variar em termos de rigor e critérios de inclusão, e nem todas as revistas científicas são indexadas em todas as bases de dados mencionadas. Cada uma dessas formas de indexação tem seu próprio processo e critérios para inclusão, e a seleção da base de dados depende do campo de pesquisa e dos objetivos dos autores e editores.

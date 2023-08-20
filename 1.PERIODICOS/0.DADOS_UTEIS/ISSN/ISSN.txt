@@ -1,0 +1,7 @@
+O ISSN (International Standard Serial Number) é um número único e padronizado usado para identificar publicações periódicas, como revistas, jornais, boletins e outros tipos de publicações que são emitidas em intervalos regulares. 
+
+O ISSN ajuda a distinguir uma publicação específica de outras com nomes semelhantes e ajuda na organização, distribuição, catalogação e recuperação de informações sobre essas publicações.
+
+Cada edição ou número de uma publicação periódica recebe um ISSN exclusivo. Isso significa que diferentes edições da mesma publicação periódica ao longo do tempo terão números ISSN distintos. O ISSN é composto por oito dígitos, geralmente separados em dois grupos de quatro dígitos, com um hífen entre eles. Por exemplo, o ISSN da revista "Science" é 0036-8075.
+
+Os ISSN são usados por bibliotecas, bases de dados, agências de indexação e outras instituições para identificar e rastrear publicações periódicas. Isso facilita a localização e referência cruzada de informações, ajudando pesquisadores, bibliotecários e outros profissionais a acessar e gerenciar o conteúdo das publicações de maneira eficiente.
